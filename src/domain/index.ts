@@ -11,3 +11,5 @@ export * from './board'
 export * from './rules'
 export * from './ai'
 export * from './themes'
+
+export * from './responsive'
